@@ -1,0 +1,19 @@
+{
+  "name": "modular-svg-logo",
+  "version": "1.0.0",
+  "description": "CLI tool to generate a logo on an svg file",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "private": true,
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
