@@ -1,5 +1,5 @@
 {
-  "name": "modular-svg-logo",
+  "name": "logo-maker",
   "version": "1.0.0",
   "description": "CLI tool to generate a logo on an svg file",
   "main": "index.js",
